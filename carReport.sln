@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "carReport", "carReport\carReport.vbproj", "{FC6C1B67-5AA2-452A-A5EA-52165E673260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC6C1B67-5AA2-452A-A5EA-52165E673260}.Debug|x86.ActiveCfg = Debug|x86
+		{FC6C1B67-5AA2-452A-A5EA-52165E673260}.Debug|x86.Build.0 = Debug|x86
+		{FC6C1B67-5AA2-452A-A5EA-52165E673260}.Release|x86.ActiveCfg = Release|x86
+		{FC6C1B67-5AA2-452A-A5EA-52165E673260}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
